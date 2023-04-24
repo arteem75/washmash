@@ -4,3 +4,5 @@ Washmash is an app which manages washing times. Personally, I'm unsatisfied with
 
 The app uses express js with mongoose (mongoDB) as a backend and a swift app as frontend. 
 Possible updates: adding a security layer, user authentification, adding another frontend for some device like arduino to display the timetable in the washing kitchen. 
+
+![]https://github.com/arteem75/washmash/blob/master/example.gif
